@@ -1,54 +1,64 @@
 <!-- ═══════════════════════════════════════════════════════════════
      GitHub Profile README — Jeya Kartika G
-     Repo: Create a new repo named exactly your GitHub username
-     Place this file as README.md at the root of that repo.
+     Repo: JEYKAGOVIND/JEYKAGOVIND
 ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║          J E Y A   K A R T I K A   G                ║
-║          AI • Data Science • Cybersecurity           ║
-╚══════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FF8E53,50:FFCC02,75:4ECDC4,100:45B7D1&height=200&section=header&text=Jeya%20Kartika%20G&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Full%20Stack&descAlignY=58&descColor=ffffff&animation=fadeIn" />
 
-*Building intelligent systems at the intersection of AI & curiosity.*
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&pause=1000&color=888780&center=true&vCenter=true&width=500&lines=B.Tech+%E2%80%94+Artificial+Intelligence+%26+Data+Science;Cybersecurity+%7C+Data+Science+%7C+Prompt+Engineering;Sometimes+code.+Sometimes+Tamil+kavithais.+Both+feel+the+same.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Jeya+Kartika+%F0%9F%91%8B;AI+%26+Data+Science+Student+%F0%9F%A4%96;Cybersecurity+Enthusiast+%F0%9F%94%90;Prompt+Engineer+%E2%9C%A8;Full+Stack+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## `$ whoami`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:FFCC02&height=3&section=header" width="100%"/>
 
-```yaml
-name       : Jeya Kartika G
-role       : AI & Data Science Student · Builder · Researcher
-location   : Thanjavur, Tamil Nadu, India
-status     : [ OPEN TO WORK ] — building things that matter
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```python
+class JeyaKartika:
+    name       = "Jeya Kartika G"
+    role       = "AI & DS Student | Builder | Researcher"
+    location   = "Thanjavur, Tamil Nadu 🇮🇳"
+    status     = "🟢 Open To Work"
+    
+    education  = [
+        "B.Tech AI & DS @ SRM TRP",
+        "Cybersecurity @ Alagappa University ✅",
+        "Data Science @ IIT Madras 🔄"
+    ]
+    
+    interests  = ["AI/ML", "Cybersecurity",
+                  "Prompt Engineering", "IoT",
+                  "Full Stack", "Hackathons"]
+    
 ```
 
-Hey there! I'm a B.Tech student in Artificial Intelligence & Data Science at SRM TRP Engineering College, with a Diploma in Cybersecurity from Alagappa University and currently pursuing a Diploma in Data Science from IIT Madras.
-
-I'm passionate about building intelligent systems that solve real-world problems — using AI, data, automation, and smart analytics. I enjoy combining creativity with technology, transforming ideas into impactful products and research-driven solutions.
-
-> *"Sometimes I write code. Sometimes I write Tamil kavithais. Sometimes both feel the same."* ✨
+<br clear="right"/>
 
 ---
 
-## `$ cat education.log`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4ECDC4,100:45B7D1&height=3" width="100%"/>
 
-| # | Degree | Institution | Status |
-|---|--------|-------------|--------|
+## 🎓 Education
+
+| # | 🎓 Degree | 🏫 Institution | 📌 Status |
+|:-:|-----------|----------------|:---------:|
 | 01 | B.Tech — Artificial Intelligence & Data Science | SRM TRP Engineering College | 🟢 Active |
 | 02 | Diploma — Cybersecurity | Alagappa University | ✅ Completed |
 | 03 | Diploma — Data Science | IIT Madras | 🔄 In Progress |
 
 ---
 
-## `$ ping ./connect`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8E53,100:FF6B6B&height=3" width="100%"/>
+
+## 🌐 Connect With Me
+
+<div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/JEYKA_GOVIND)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeykagovind)
@@ -56,11 +66,15 @@ I'm passionate about building intelligent systems that solve real-world problems
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/Jeyakartika-Govindarajan)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeykagovind@gmail.com)
 
+</div>
+
 ---
 
-## `$ ls ./tech-stack/`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFCC02,100:FF8E53&height=3" width="100%"/>
 
-**Languages**
+## 🛠️ Tech Stack
+
+**💻 Languages**
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -69,7 +83,7 @@ I'm passionate about building intelligent systems that solve real-world problems
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-**Frameworks & Libraries**
+**⚡ Frameworks & Libraries**
 
 ![Angular.js](https://img.shields.io/badge/Angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -78,7 +92,7 @@ I'm passionate about building intelligent systems that solve real-world problems
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Data Science & ML**
+**🤖 Data Science & ML**
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -88,12 +102,12 @@ I'm passionate about building intelligent systems that solve real-world problems
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
-**Databases**
+**🗄️ Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Design & Tools**
+**🎨 Design & Tools**
 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
@@ -101,7 +115,7 @@ I'm passionate about building intelligent systems that solve real-world problems
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-**Cloud & Deployment**
+**☁️ Cloud & Deployment**
 
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -109,60 +123,57 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ---
 
-## `$ cat ./projects/featured.json`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:45B7D1,100:4ECDC4&height=3" width="100%"/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JEYKAGOVIND&repo=JENI&theme=radical&hide_border=true" />
+</a>
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JEYKAGOVIND&repo=BWIN&theme=radical&hide_border=true" />
+</a>
+
+</div>
 
 ### 🧠 JENI — Joint Expert for Notification Intelligence
+> AI-driven notification management system that analyzes, prioritizes, and delivers meaningful alerts using intelligent decision systems.
 
-```json
-{
-  "id"      : "PROJECT-01",
-  "name"    : "JENI",
-  "full"    : "Joint Expert for Notification Intelligence",
-  "status"  : "concept · in development",
-  "stack"   : ["AI Decision Systems", "NLP", "Automation"],
-  "summary" : "Intelligent notification management system that analyzes,
-               prioritizes, and delivers meaningful alerts using
-               AI-driven decision intelligence."
-}
-```
+`AI` `NLP` `Automation` `Decision Intelligence`
 
 ### 🌦️ BWIN — Bangladesh Weather Intelligence
+> Smart weather intelligence platform for predictive analytics, climate monitoring, and intelligent weather-based insight delivery.
 
-```json
-{
-  "id"      : "PROJECT-02",
-  "name"    : "BWIN",
-  "full"    : "Bangladesh Weather Intelligence",
-  "status"  : "concept · in development",
-  "stack"   : ["Predictive Analytics", "Climate ML", "Data Viz"],
-  "summary" : "Smart weather intelligence platform focused on
-               predictive analytics, climate monitoring, and
-               intelligent weather-based insight delivery."
-}
+`Predictive Analytics` `Climate ML` `Data Visualization`
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:FF8E53&height=3" width="100%"/>
+
+## 🌱 Currently Exploring
+
+```
+🔭  Advanced AI systems architecture
+📊  Real-time monitoring dashboards  
+🤖  Predictive models for smart environments
+⚡  AI-powered automation workflows
 ```
 
 ---
 
-## `$ tail -f ./currently-exploring.log`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFCC02,100:4ECDC4&height=3" width="100%"/>
 
-```
-[01]  Advanced AI systems architecture ............. LEARNING
-[02]  Real-time monitoring dashboards .............. BUILDING
-[03]  Predictive models for smart environments ..... RESEARCHING
-[04]  AI-powered automation workflows .............. EXPERIMENTING
-```
-
----
-
-## `$ ./run_stats.sh`
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JEYKAGOVIND&show_icons=true&theme=default&hide_border=true&title_color=534AB7&icon_color=1D9E75&text_color=5F5E5A&bg_color=F1EFE8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JEYKAGOVIND&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JEYKAGOVIND&layout=compact&hide_border=true&title_color=534AB7&text_color=5F5E5A&bg_color=F1EFE8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JEYKAGOVIND&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JEYKAGOVIND&theme=default&hide_border=true&ring=534AB7&fire=1D9E75&currStreakLabel=534AB7&background=F1EFE8&sideLabels=888780&dates=888780)
+![GitHub Streak](https://streak-stats.demolab.com?user=JEYKAGOVIND&theme=radical&hide_border=true)
 
 </div>
 
@@ -170,25 +181,17 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║   "Transforming ideas into impactful products        ║
-║    and research-driven solutions — one commit        ║
-║    (or kavithai) at a time."                         ║
-╚══════════════════════════════════════════════════════╝
-```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=JEYKAGOVIND&color=534AB7&style=flat-square&label=visitors)
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=JEYKAGOVIND&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
 
-<!-- 
-═══════════════ SETUP CHECKLIST ═══════════════
-  □ Replace JEYKAGOVIND (4 places)
-  □ Replace JEYKA_GOVIND with your Instagram handle
-  □ Replace Jeykagovind with your Medium username
-  □ Quora link is already filled in ✅
-  □ Email is already filled in ✅
-  □ LinkedIn is already filled in ✅
-═══════════════════════════════════════════════
--->
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:45B7D1,25:4ECDC4,50:FFCC02,75:FF8E53,100:FF6B6B&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%8C%BA&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=JEYKAGOVIND&color=FF6B6B&style=for-the-badge&label=Profile+Views)
+
+</div>
